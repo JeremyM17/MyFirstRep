@@ -1,2 +1,2 @@
 # MyFirstRep
-This is a test repository for Jeremy
+This is a test repository for Jeremy.
